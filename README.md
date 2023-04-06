@@ -1,1 +1,146 @@
 # phuloc.github.io
+
+<!-- saved from url=(0046)https://dean06.hanam.gov.vn/tailieu/dk_t1.html -->
+<html lang="vi"><!-- Mirrored from tailieuhuongdan.dean06.vn/dk_t1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Mar 2023 15:07:59 GMT --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <script src="./Hướng dẫn cài đặt ứng dụng VNeID_files/jquery2.min.js"></script>
+    <link href="./Hướng dẫn cài đặt ứng dụng VNeID_files/bootstrap.min.css" rel="stylesheet">
+    <script src="./Hướng dẫn cài đặt ứng dụng VNeID_files/bootstrap.min.js"></script>
+    <link href="./Hướng dẫn cài đặt ứng dụng VNeID_files/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Hướng dẫn cài đặt ứng dụng VNeID_files/pushy.html">
+    <link href="./Hướng dẫn cài đặt ứng dụng VNeID_files/styles.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="https://dean06.hanam.gov.vn/tailieu/favicon.ico">
+    <title>Hướng dẫn cài đặt ứng dụng VNeID</title>
+</head>
+
+<body class="page-home">
+    <main class="extra-home">
+        <div class="logo_an">
+            <a href="https://dean06.hanam.gov.vn/tailieu/home.html"><img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/logo.svg"></a>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-xl-4 left">
+                    <div class="sideMenu">
+                        <ul class="navbar-nav">
+                            <!-- Nav Item - Pages Collapse Menu -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://dean06.hanam.gov.vn/tailieu/home.html">
+                                    <div class="icon"><img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/icon_1.svg"></div>
+                                    <span>Bộ tài liệu hướng dẫn sử dụng</span>
+                                </a>
+                            </li>
+                            <li class="nav-item selected">
+                                <a class="nav-link" href="https://dean06.hanam.gov.vn/tailieu/dk_t1.html">
+                                   <div class="icon icon_c">
+                                        <img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/icon_2.svg" class="img_c">
+                                        <img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/icon2_hv.svg" class="img_hv">
+                                    </div>
+                                    <span>Hướng dẫn đăng ký tài khoản định danh điện tử</span>
+                                    <em class="up">
+                                        <img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/array.svg" class="ar">
+                                        <img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/array_hv.svg" class="ar_hv">
+                                    </em>
+                                </a>
+                                <ul class="lv-2" style="display: block">
+                                    <li class="active"><a href="https://dean06.hanam.gov.vn/tailieu/dk_t1.html">
+                                            <div class="icon">1</div><span>Hướng dẫn cài đặt ứng dụng VNeID</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t2.html">
+                                            <div class="icon">2</div><span>Đăng ký tài khoản ứng dụng VNeID</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t3.html">
+                                            <div class="icon">3</div><span>Đăng ký tài khoản mức 1</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t4.html">
+                                            <div class="icon">4</div><span>Đăng ký tài khoản mức 2</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://dean06.hanam.gov.vn/tailieu/dk_t5.html">
+                                    <div class="icon"><img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/icon_3.svg"></div>
+                                    <span>Hướng dẫn sử dụng tài khoản định danh điện tử</span>
+                                    <em><img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/array.svg"></em>
+                                </a>
+                                <ul class="lv-2">
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t6.html">
+                                            <div class="icon">1</div><span>Kích hoạt tài khoản</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t7.html">
+                                            <div class="icon">2</div><span>Các chức năng của tài khoản định danh điện tử</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t8.html">
+                                            <div class="icon">3</div><span>Thông báo lưu trú</span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://dean06.hanam.gov.vn/tailieu/dk_t9.html">
+                                            <div class="icon">4</div><span>Tố giác, tin báo tội phạm</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-xl-8">
+                    <div class="dk">
+                        <div class="dk_block block1">
+                            <h4 class="title">1.1. Đối với hệ điều hành Android</h4>
+                            <div class="row justify-content-center">
+                                <div class="col-12 col-lg-6 item">
+                                    <div class="b_item">
+                                        NSD truy cập ứng dụng CH Play<img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/muiten.svg" width="21px" height="15px" class="d-inline-block pb-0">
+                                        Tại thanh công cụ tìm kiếm <img src="./Hướng dẫn cài đặt ứng dụng VNeID_files/muiten.svg" width="21px" height="15px" class="d-inline-block pb-0"> Tìm từ khoá “VNeID”
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-6 item">
+                                    <div class="b_item">
+                                       Sau khi App cần tải hiển thị  Chọn “ Cài đặt” để tải App “Ứng dụng định danh điện tử - VNeID” về máy.
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-6 item">
+                                    <div class="b_item">
+                                        NSD chọn “Mở” để mở ứng dụng định danh điện tử - VNeID vừa tải.
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-6 item">
+                                    <div class="b_item">
+                                        Sau khi tải về và cài đặt, NSD ấn chạy ứng dụng và ấn <b>“Bắt đầu sử dụng” </b>để tiến hành sử dụng app:
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dk_block dk_block2">
+                            <h4 class="title">1.2.Đối với hệ điều hành IOS</h4>
+                            <div class="row justify-content-center">
+                                <div class="col-12">
+                                    <div class="b_item">
+                                       <p class="">NSD mở App store trên thiết bị di động</p>
+                                       <p>Công dân thực hiện các bước tương tự như hệ điều hành Android.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            HƯỚNG DẪN ĐĂNG KÝ TÀI KHOẢN ĐỊNH DANH ĐIỆN TỬ
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <div class="go-top"></div>
+
+<script src="./Hướng dẫn cài đặt ứng dụng VNeID_files/scripts.js"></script>
+
+
+<!-- Mirrored from tailieuhuongdan.dean06.vn/dk_t1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Mar 2023 15:08:00 GMT -->
+</body></html>
