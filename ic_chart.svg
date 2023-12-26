@@ -1,0 +1,9 @@
+<svg id="ic_chart" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect id="Rectangle_14308" data-name="Rectangle 14308" width="64" height="64" fill="#fff" opacity="0"/>
+  <g id="Group_39188" data-name="Group 39188" transform="translate(8 8)">
+    <path id="Path_80491" data-name="Path 80491" d="M25,36H9V13.6A1.6,1.6,0,0,1,10.6,12H23.4A1.6,1.6,0,0,1,25,13.6Z" transform="translate(7 12)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_80492" data-name="Path 80492" d="M29.4,26.833H15V19.1a1.6,1.6,0,0,1,1.6-1.6H29.4A1.6,1.6,0,0,1,31,19.1v6.133A1.6,1.6,0,0,1,29.4,26.833Z" transform="translate(17 21.167)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_80493" data-name="Path 80493" d="M19,30.167V17.1a1.6,1.6,0,0,0-1.6-1.6H4.6A1.6,1.6,0,0,0,3,17.1V28.567a1.6,1.6,0,0,0,1.6,1.6Z" transform="translate(-3 17.833)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path id="Path_80494" data-name="Path 80494" d="M14.648,8.635l2.424-5.14a.832.832,0,0,1,1.522,0l2.424,5.14,5.422.829a.9.9,0,0,1,.469,1.515l-3.922,4,.926,5.649a.857.857,0,0,1-1.231.936l-4.848-2.668-4.848,2.668a.857.857,0,0,1-1.231-.936l.926-5.649-3.922-4a.9.9,0,0,1,.469-1.515Z" transform="translate(6.167 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+</svg>
